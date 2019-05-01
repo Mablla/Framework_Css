@@ -1,0 +1,35 @@
+.cocina-body{
+  background: url(../img/cocina2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.rectangulo-principal{
+  background-color: rgba(0, 68, 255, 0.5);
+}
+
+.capa-superior-verde-agua{
+background-color: #a5d6a7;
+padding: 3px;
+margin: 2px;
+}
+.capa-superior-rosa-claro{
+background-color: #f8bbd0;
+padding: 3px;
+margin: 2px;
+}
+
+.principal-horizontal{
+  border-bottom: 1px solid black;
+  padding: 5px;
+  min-height: 11em;
+  color:white;
+}
+.principal-vertical{
+  border-right: 1px solid black;
+}
+.hereda{
+  background: inherit;
+}

@@ -1,0 +1,132 @@
+.logo-redesSoc{
+  /* background-color: #e57373; /* red lighten-2*/ */
+  max-height: 15%;
+  background-color: #ffd54f;
+}
+
+  /* devices (xs)*/
+.faStyle{
+  margin: 1px;
+  padding: 9px;
+  font-size: 11.5px;
+  width: 31.2px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 3px;
+  }
+
+  .logo_Malv_Arg{
+    margin: 1px;
+    width: 31.2px;
+    border-radius: 3px;
+  }
+  .titulo{
+    text-align: left;
+    font-style: oblique;
+  }
+.faalineacion{
+}
+
+  /* devices (md sm)*/
+  @media (min-width: 576px) {
+    .faStyle{
+      margin:2px;
+      padding: 11.6px;
+      font-size: 17.4px;
+      width: 40.6px;
+      text-align: center;
+      text-decoration: none;
+      }
+      .logo_Malv_Arg{
+        margin: 2px;
+        width: 40.6px;
+        border-radius: 3px;
+      }
+      .faalineacion{
+        text-align: right;
+      }
+
+   }
+
+  /* devices (lg)*/
+ @media (min-width: 992px) {
+    .faStyle{
+      margin:3px;
+      padding: 15.4px;
+      font-size: 23.1px;
+      width: 53.9px;
+      text-align: center;
+      text-decoration: none;
+    }
+    .logo_Malv_Arg{
+      margin: 3px;
+      width: 53.9px;
+      border-radius: 3.85px;}
+
+    .faalineacion{
+        text-align: right;
+      }
+
+
+  }
+
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.botones{
+  /* background-color:#7e57c2; /* deep-purple lighten-1 */ */
+  height: 30%;
+  background-color: #ffd54f;
+
+
+
+}
+
+
+.ladoIzq{
+  /* background-color: #64b5f6;  /* blue lighten-2 */ */
+  height: 90%;
+  background-color: #00ffff;
+  border-right: 2px solid #00f0f0;
+}
+.articulo-img{
+  /* background-color: #1a237e; /* indigo darken-4 */ */
+}
+.imagenA{
+margin:20px;
+width: 95%;
+}
+.novisible{
+  display:none;
+}
+.aparte{
+  /* background-color: #6200ea; /* deep-purple accent-4 */ */
+  min-height: 100%;
+  background-color: #0ff;
+}
